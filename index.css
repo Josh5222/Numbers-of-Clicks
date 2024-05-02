@@ -1,0 +1,19 @@
+.div1{
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 50vh;
+    padding: 1px 10px 5px;
+    text-align: center;
+}
+#save-btn, #increment-btn, #reset-btn{
+    border-radius: 10px;
+    background-color: transparent;
+    cursor: pointer;
+    transition: 0.3s ease;
+
+}
+#idk{
+    font-size: 50px;
+    text-align: center;
+}
